@@ -1,0 +1,7 @@
+C:\Users\erbson.lavras\Documents\Developer\Test\CalculadoraTests.br\CalculadoraTests.br\obj\Debug\CalculadoraTests.br.csprojAssemblyReference.cache
+C:\Users\erbson.lavras\Documents\Developer\Test\CalculadoraTests.br\CalculadoraTests.br\obj\Debug\CalculadoraTests.br.csproj.CoreCompileInputs.cache
+C:\Users\erbson.lavras\Documents\Developer\Test\CalculadoraTests.br\CalculadoraTests.br\bin\Debug\CalculadoraTests.br.exe.config
+C:\Users\erbson.lavras\Documents\Developer\Test\CalculadoraTests.br\CalculadoraTests.br\bin\Debug\CalculadoraTests.br.exe
+C:\Users\erbson.lavras\Documents\Developer\Test\CalculadoraTests.br\CalculadoraTests.br\bin\Debug\CalculadoraTests.br.pdb
+C:\Users\erbson.lavras\Documents\Developer\Test\CalculadoraTests.br\CalculadoraTests.br\obj\Debug\CalculadoraTests.br.exe
+C:\Users\erbson.lavras\Documents\Developer\Test\CalculadoraTests.br\CalculadoraTests.br\obj\Debug\CalculadoraTests.br.pdb
